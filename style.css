@@ -439,11 +439,13 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+   
 }
 
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+    
 }
 
 .btn {
@@ -686,6 +688,7 @@ p {
     max-width: 600px;
     margin: auto auto auto auto;
     font-size: larger;
+    color: #000000!important;
 }
 
 .h1 {
