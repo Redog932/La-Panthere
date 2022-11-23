@@ -7,11 +7,24 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-/* a,
+a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
-} */
+    /* outline: none!important; */
+}
+
+.citations {
+    font-size: large ;
+    margin-top: -50px;
+}
+
+.presentation {
+    font-size: x-large;
+}
+
+.explication {
+    font-size: x-large;
+}
 
 a:hover {
     text-decoration: none;
@@ -518,9 +531,6 @@ nav .caret {
     border: 1px solid black;
 }
 
-.form-control:invalid {
-    box-shadow: 0px 0px 7px 1px #ff0000;}
-
 .scrollToTop {
     width: 40px;
     height: 40px;
@@ -688,7 +698,7 @@ a {
 }
 
 p {
-    font-size: 100%;
+    font-size: large;
 }
 
 .tight-width-whitespace {
@@ -789,7 +799,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
