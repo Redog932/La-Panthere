@@ -15,11 +15,11 @@ button {
 
 .citations {
     font-size: large ;
-    margin-top: -50px;
 }
 
 .presentation {
     font-size: x-large;
+    margin-bottom: 32px;
 }
 
 .explication {
@@ -527,8 +527,8 @@ nav .caret {
     display: flex;
 }
 
-.form-control:valid {
-    border: 1px solid black;
+.form-control:invalid {
+    border: 1px dashed red;
 }
 
 .scrollToTop {
@@ -764,6 +764,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -936,6 +937,7 @@ h4 {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none!important;
+        margin-left: -42px;
     }
     .navbar.row {
         margin-left: 0;
