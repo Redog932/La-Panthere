@@ -114,6 +114,7 @@ a:hover {
 
 .d-bloc {
     color: rgba(255, 255, 255, .7);
+    text-align: center;
 }
 
 .d-bloc button:hover {
@@ -542,6 +543,12 @@ nav .caret {
     transition: all .3s ease-in-out;
 }
 
+.col-sm-6-2 {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 350px;
+}
 .scrollToTop span {
     margin-top: 6px;
 }
@@ -836,6 +843,8 @@ h4 {
 
 .bg-dots-bg {
     background-image: url("img/dots-bg.webp");
+    display: flex;
+    justify-content: center;
 }
 
 .bg-lines-h2-bg {
