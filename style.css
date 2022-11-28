@@ -543,12 +543,12 @@ nav .caret {
     transition: all .3s ease-in-out;
 }
 
-.col-sm-6-2 {
+/* .col-sm-6-2 {
     display: flex;
     justify-content: center;
     position: relative;
     top: 350px;
-}
+} */
 .scrollToTop span {
     margin-top: 6px;
 }
