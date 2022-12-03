@@ -528,8 +528,8 @@ nav .caret {
     display: flex;
 }
 
-.form-control:invalid {
-    border: 1px dashed red;
+.form-control:focus {
+    border: #c27956 2px solid;
 }
 
 .scrollToTop {
