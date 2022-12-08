@@ -1,0 +1,11 @@
+# ignorer les fichiers non-minifier
+/css/bootstrap.css
+/css/et-line.css
+/css/font-awesome.css
+/js/bloc.js
+/js/bootstrap.js
+/js/formHandler.js
+/js/gmaps.js
+/js/jqBootstrapvalidation.js
+/js/jquery-2.1.0.js
+/js/jquery.touchSwipe.js
